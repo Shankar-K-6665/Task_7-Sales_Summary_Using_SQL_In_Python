@@ -2,7 +2,7 @@
 
 This project is created using Python with a tiny SQLite database containing sample sales data
 
-## What I Did
+## What’s Done
 - Created a SQLite database
 - Added sample sales data
 - Ran SQL queries to get totals
@@ -14,7 +14,7 @@ This project is created using Python with a tiny SQLite database containing samp
 ## Files Included
 - Sales_Data.db
 - Sales_Chart.png
-- Sales_Summary_Using_SQL_In_Python
+- Sales_Summary_Using_SQL_In_Python.py
 
 
 ## Result
